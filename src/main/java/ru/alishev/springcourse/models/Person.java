@@ -1,6 +1,7 @@
 package ru.alishev.springcourse.models;
 
 public class Person {
+    public Person(){}
 
     private int id;
     private String name;
